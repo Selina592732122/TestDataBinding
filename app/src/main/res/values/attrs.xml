@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="ScratchView">
+		<attr name="maskColor" format="color|reference"/>
+		<attr name="eraseSize" format="float|reference"/>
+		<attr name="watermark" format="integer"/>
+	</declare-styleable>
+	<declare-styleable name="StarView">
+		<attr name="score" format="integer"/>
+	</declare-styleable>
+</resources>

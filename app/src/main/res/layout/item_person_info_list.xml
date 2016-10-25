@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools">
+
+	<data>
+
+		<import type="test.com.testdatabinding.bean.Person"/>
+
+		<import type="test.com.testdatabinding.basic.Constants"/>
+
+		<variable
+			name="person"
+			type="Person"/>
+	</data>
+
+	<LinearLayout
+		android:id="@+id/ll"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@android:color/white">
+
+		<com.facebook.drawee.view.SimpleDraweeView
+			android:layout_width="100dp"
+			android:layout_height="100dp"
+			android:padding="14dp"
+			app:imageUrl="@{person.imgUrl}"
+			app:placeholderImage="@mipmap/ic_launcher"/>
+
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:orientation="vertical">
+
+			<TextView
+				android:id="@+id/tvName"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="14dp"
+				android:text="@{person.name}"
+				android:textSize="18sp"
+				tools:text="小米"/>
+
+			<TextView
+				android:id="@+id/tvAge"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:paddingBottom="14dp"
+				android:paddingLeft="14dp"
+				android:text="@{Constants.foregroundColorEndWith(@string/format_age(String.valueOf(person.age)),0xFF00FF00,1)}"
+				android:textColor="#FA563C"
+				android:textSize="16sp"
+				tools:text="16岁"/>
+
+		</LinearLayout>
+
+	</LinearLayout>
+</layout>

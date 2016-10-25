@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.12.0_b06f8c444c214fc4100611ae1e496d4aac965789\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_040dfdcb945458a47cef85601a1714c997ad4f6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.12.0_c375f195e27408de16ab7ac120a37b438e3d18a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\TestDataBinding\mylibrary\unspecified\jars\libs\mta-sdk-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="418868f1416898ed88da34f10e4d770502a8d6b7">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\8\mta-sdk-1.6.2_b5de2ef4b0fc5ae3a6dd2d36aaae5554f8fef9da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.0.1_e609b2dc2411e332870f8530f9065e24c7b68d86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\陈宝\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_a462ca150d88763a42d6aff7bac65de909c1b2fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-library-1.2.1_ba4b735e4747a14aca3021ce77121ae80e1a4763\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\陈宝\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.14\898f9ab61e2a23afd615f0b0389478bec86f49f9\rxjava-1.0.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="898f9ab61e2a23afd615f0b0389478bec86f49f9">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.0.14_16ae71e609f28f8581da538df2f3e191b8a1b63d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.12.0_a809c477379d399cb99b7c61c95c7626125b69a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_c3dc32a6cbf253e5c15812827ceadd58a2c85a02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_34f44566730d3562ee65e65fd7f08d69785f3ede\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_020ad45deb61e4f21a4a228117ace0012d441ad8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_75a262c1405d4026261b7776212a92a0da4de6ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-adapters-1.2.1_1a0264309bf8e55b112cf6249ece1724ed824ced\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.yuyh.easyadapter\library\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d274320550b0352f154a1c8ba29930935800ffdd">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.yuyh.easyadapter-library-1.0.0_eb506d58740b7bb081b61e537d771b8bf393e97c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Program Files\android-studio\gradle\m2repository\com\android\databinding\baseLibrary\2.2.0\baseLibrary-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e1d81f36ef9a5803689b3e888eb93a8759a17be0">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.2.0_a4f0131e659ffed80ab1d36e31d25daa067f98be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\TestDataBinding\mylibrary\unspecified\jars\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dd106d41daef68edc7834007f9c70b60645e444d">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_WeiXin_2_d989cc5541623d2d52164e15b077655131c793a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.0_9219ec518edee6ee20b6d79b724fed7fde0baa5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ba5f39c4fa4efd52c06ecf3d24ee5514f0383d6e">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0fbdb116aea4d3688cf2b372c97d4e4a4c665343\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_3b53853366489f2a60af1168c87a1aa6610443b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d9c46608f0cb810557afb367931f999556d9a16f">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a846d7ecfa90a75b92d0890d41faccc911b24163\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\TestDataBinding\mylibrary\unspecified\jars\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a65a70dd599459c0d19a1d035622eaf18ddcb0f6">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_social_sdk_f12f4f495cd4d3080f9aa4fa36bbd5b95a20c04f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_401b5d13b6c4b678d3e8936cc1b1f5bfea3ad647\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\陈宝\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_e9d9bd870c219fdeaf330d2a91ba9fc6045746e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_22682cc1a85dc4da7867215ceb97b5990c98127a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\TestDataBinding\mylibrary\unspecified\jars\libs\open_sdk_r5756.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9215c7042269e2931e8e4a4d697fdfa5f1385998">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\8\open_sdk_r5756_c464be497e27cbfcf4dc434144eefcd12b53e65a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_7455ad19fbc68237aa923d6bf6e04b743ccc7551\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_76659fc2357853ecde545080a73ec97ca99a5c8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\陈宝\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_5e2db30c90c9977eaa6f5b5cf2fe754355c058c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.0_90cd58cfa2da10b7bdbf2b3d60f68286f253a05d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.12.0_03a4ca5a345c06e42dd22132aeb97b3cd65c6016\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.12.0_8034202b1e1c4faae285283b6e8f272100fc75fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.facebook.fresco\webpsupport\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3d9074e9cbc7d0eb180287e29ad3dec039763b5">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-webpsupport-0.12.0_1326b009c4f0eb88b0d7f90c4a1819fe99544f8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d85baa3fb79d1413aa32683c907366fc4a4fa88c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.demievil.library\refreshlayout\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b98861ef86d1575672b61b5f58a59eede6119c97">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.demievil.library-refreshlayout-1.0.0_57896a663fe60d52485905a8642d887195404f5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.6.0_666b6fd05549090f54dd4f29e7541789ddfcf354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.0_cc0ec57264a037a60dd444221ac2bd511733090b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\TestDataBinding\mylibrary\unspecified\jars\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a75d03073fa0f0e434dcaa504029f0cc9b8c795d">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_3_cff808caf975507ae5ea95bd3785e612f089de91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.0_d37db8a2f003140cf410581ffbd02868bbbdf28d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\TestDataBinding\app\build\intermediates\exploded-aar\com.yuyh.imgsel\library\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="aa1ca9e622290f150e4547407df539713df34ee4">
+        <dex dex="E:\workspace\TestDataBinding\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.yuyh.imgsel-library-1.1.0_445e5f1a7e1be9d2c92da94ebfafb32b3f259b12\classes.dex" />
+    </item>
+
+</items>

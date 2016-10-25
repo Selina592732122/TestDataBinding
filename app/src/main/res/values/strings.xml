@@ -1,0 +1,6 @@
+<resources>
+	<string name="app_name">TestDataBinding</string>
+	<string name="format_age">%s岁</string>
+	<string name="add_data">添加数据</string>
+	<string name="tv_tips">长按删除数据,点击增加岁数</string>
+</resources>
